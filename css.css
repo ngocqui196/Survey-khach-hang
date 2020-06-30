@@ -1,0 +1,16 @@
+select {
+    width: 400px;
+}
+#text {
+    margin-left: 40px;
+    margin-top: 0px;
+}
+#text2 {
+    margin-top: 0px;
+    margin-left: 60px;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
